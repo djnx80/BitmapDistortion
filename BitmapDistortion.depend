@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1455113842 source:e:\codeblock\bitmapdistortion\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 e:\codeblock\bitmapdistortion\allegrostart.h
+
+1455726331 source:e:\codeblock\bitmapdistortion\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1466594188 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\bitmapdistortion\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446967968 f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\bitmapdistortion\allegrostart.h
+
+1455117442 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\codeblock\bitmapdistortion\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1466594198 source:i:\cb\bitmapdistortion\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467389426 i:\cb\bitmapdistortion\allegrostart.h
+
+1467657635 source:i:\cb\bitmapdistortion\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
